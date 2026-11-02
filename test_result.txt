@@ -1,0 +1,4 @@
+Urine Test Strip Results
+Glucose: 250 mg/dL
+Protein: 30 mg/dL
+pH: 6.5

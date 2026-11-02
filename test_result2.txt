@@ -1,0 +1,5 @@
+Urine Test Strip Results
+
+Glucose: 500 mg/dL
+Protein: 100 mg/dL
+Status: Critical
